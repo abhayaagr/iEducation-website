@@ -37,4 +37,4 @@ This project was developed to:
 - Incorporate animations for smoother transitions and a modern feel.
 
 ## Acknowledgments
-- This project was developed as a learning experience and is not intended for production use. All images, icons, and other assets are used for educational purposes only.
+This project was developed as a learning experience and is not intended for production use. All images, icons, and other assets are used for educational purposes only.
